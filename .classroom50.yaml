@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cs112-1422-online"
+assignment: "cs112-lab-10-packing-problem-alag"
+owner:
+  username: "leozhang8654"
+  id: 261338259
+  accepted_at: "2026-09-13T17:47:08Z"
+source:
+  owner: "MiraCostaCS"
+  owner_id: 35788850
+  repo: "CS112-L10-Packing-Problems-ArrayList-and-Generics"
+  branch: "main"
